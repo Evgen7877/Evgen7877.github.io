@@ -1,0 +1,10 @@
+.title {
+  font-family: RobotoThin;
+  font-size: xx-large;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding-top: 4.4rem;
+}
